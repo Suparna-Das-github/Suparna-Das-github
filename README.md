@@ -27,10 +27,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 
 - ⚡ Fun fact: I like to travel a lot
+
+Achievement:
+![trophy](https://github-profile-trophy.vercel.app/?username=Suparna-Das-github&theme=onedark)
+
 ---
 ### :fire: My Stats :
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kattni&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Suparna-Das-github&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+
+### :fire: My grads
+![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suparna-Das-github&theme=tokyonight&show_icons=true)
+
 
 ### :fire: Most used Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suparna-Das-github&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
