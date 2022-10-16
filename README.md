@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like to travel a lot
 
 Achievement:
-![trophy](https://github-profile-trophy.vercel.app/?username=Suparna-Das-github&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Suparna-Das-github&theme=tokyonight&show_icons=true)
 
 ---
 ### :fire: My Stats :
@@ -41,4 +41,4 @@ Achievement:
 
 
 ### :fire: Most used Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suparna-Das-github&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suparna-Das-github&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
