@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Suparna-Das-github/Suparna-Das-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div id="header" align="center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> </div>
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
      Sololearn : https://www.sololearn.com/Profile/25610696/?ref=app
 - 😄 Pronouns: 'Su'-'pa'-'rr'-'na'
 - ⚡ Fun fact: I like to travel a lot
--->
+
