@@ -4,12 +4,11 @@
 I am Suparna Das
 ---
 
+<!--
 <div id="header" align="center"> <img src="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/> </div>
+-->
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently pursuing bachelor's course
+- 🔭 I’m currently pursuing bachelor's degree course
 
 - 🌱 I’m currently learning programming 
 
@@ -28,7 +27,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I like to travel a lot
 
-Achievement:
+### :fire: Achievement:
 ![trophy](https://github-profile-trophy.vercel.app/?username=Suparna-Das-github&theme=tokyonight&show_icons=true)
 
 ---
