@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
             Sololearn : https://www.sololearn.com/Profile/25610696/?ref=app
 
-- 😄 Pronouns: 'Su'-'pa'-'rr'-'na'
+- 😄 Pronouns: she/her
 
 - ⚡ Fun fact: I like to travel a lot
 ---
