@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ---
-
+I am Suparna Das
+---
 
 <div id="header" align="center"> <img src="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/> </div>
 
@@ -30,6 +31,6 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Suparna-Das-github&theme=dark&background=000000)](https://git.io/streak-stats)
-
+---
 ### :fire: Most used Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suparna-Das-github&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
