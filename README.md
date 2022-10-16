@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ---
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Suparna-Das-github&theme=dark&background=000000)](https://git.io/streak-stats)
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kattni&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+
 ### :fire: Most used Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suparna-Das-github&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
