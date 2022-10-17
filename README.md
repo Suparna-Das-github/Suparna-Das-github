@@ -4,10 +4,19 @@
 I am Suparna Das
 ---
 
-<!--
 
-<div id="header" align="center"> <img src="https://i.pinimg.com/736x/53/7d/54/537d547b4b921e5c4eaade274cb43cbb.gif" width="100"/> </div>
+<!--
+![](https://github.com/Suparna-Das-github/https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif.gif)
+
+<img src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif" width="300"/>
+
 -->
+
+<div id="header" align="center">
+  
+
+<img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
+</div>
 
 <p style="background-color: #00000">
 - 🔭 I’m currently pursuing bachelor's degree course
