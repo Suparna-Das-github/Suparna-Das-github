@@ -50,12 +50,12 @@ I am Suparna Das
 
 
 ### :fire: My grads
-![Suparna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suparna-Das-github&theme=tokyonight&show_icons=true)
+![Suparna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suparna-Das-github&border=7534B2&&background=00000&theme=tokyonight&show_icons=true)
 
 
 
 <p>
-    <a href="https://github.com/Suparna-Das-github"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suparna-Das-github&theme=tokyonight&hide_border=true"  width="470"/></a>
+    <a href="https://github.com/Suparna-Das-github"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suparna-Das-github&theme=tokyonight&border=7534B2&&background=00000&"  width="470"/></a>
 
 </p>
 
