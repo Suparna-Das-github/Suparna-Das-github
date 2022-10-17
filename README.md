@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hello Everyone 👋
 
 ---
 I am Suparna Das
 ---
 
 <!--
-<div id="header" align="center"> <img src="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/> </div>
+
+<div id="header" align="center"> <img src="https://i.pinimg.com/736x/53/7d/54/537d547b4b921e5c4eaade274cb43cbb.gif" width="100"/> </div>
 -->
 
 <p style="background-color: #00000">
