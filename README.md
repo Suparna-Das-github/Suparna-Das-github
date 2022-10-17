@@ -14,11 +14,12 @@ I am Suparna Das
 
 - 🌱 I’m currently learning programming 
 
-- 👯 I’m looking to collaborate on connecting front-end towards back-end
+- 👯 I’m looking forward collaborating to connect front-end towards back-end
 
 - 🤔 I’m looking for exploring and learning new things
 
-- 💬 Ask me about ...
+- 💬 Ask me about 
+     <br/>
      I talk about web programming 
      Managing database both relational and non-relational
 
