@@ -18,6 +18,9 @@ I am Suparna Das
 <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
 </div>
 
+---
+<br />
+
 <p style="background-color: #00000">
 - 🔭 I’m currently pursuing bachelor's degree course
 
@@ -44,7 +47,7 @@ I am Suparna Das
 
 
 
-
+---
 
 ### :fire: Achievements:
 
