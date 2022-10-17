@@ -8,6 +8,7 @@ I am Suparna Das
 <div id="header" align="center"> <img src="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/> </div>
 -->
 
+<p style="background-color: #00000">
 - 🔭 I’m currently pursuing bachelor's degree course
 
 - 🌱 I’m currently learning programming 
@@ -27,6 +28,13 @@ I am Suparna Das
 
 - ⚡ Fun fact: I like to travel a lot
 
+</p>
+
+
+
+
+
+
 ### :fire: Achievement:
 ![trophy](https://github-profile-trophy.vercel.app/?username=Suparna-Das-github&theme=tokyonight&show_icons=true)
 
@@ -34,6 +42,9 @@ I am Suparna Das
 ### :fire: My Stats :
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Suparna-Das-github&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+<p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=Suparna-Das-github&theme=react-dark" /> </p>
+
+
 
 ### :fire: My grads
 ![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suparna-Das-github&theme=tokyonight&show_icons=true)
