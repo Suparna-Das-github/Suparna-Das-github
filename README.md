@@ -22,6 +22,7 @@ I am Suparna Das
 <br />
 
 <p style="background-color: #00000">
+
 - 🔭 I’m currently pursuing bachelor's degree course
 
 - 🌱 I’m currently learning programming 
