@@ -1,4 +1,4 @@
-### Hello Everyone 👋
+### Hello Everyone <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" height="25px">
 
 
 ---
@@ -11,12 +11,13 @@ I am Suparna Das
 
 <!--
 ![](https://github.com/Suparna-Das-github/https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif.gif)
-
-<img src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif" width="300"/>
-
 -->
 
 <div id="header" align="center">
+<img src="https://media.tenor.com/ZvSSenCwxEcAAAAC/hello.gif" height="300px"><br>
+
+<img src="https://media.tenor.com/OSnZnnqx4vsAAAAC/anime-hello.gif" height="300px"><br>
+
   
 
 <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
